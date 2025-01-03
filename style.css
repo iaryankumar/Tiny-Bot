@@ -20,7 +20,7 @@ nav h2{
 nav i{
     font-size: 25px;
     cursor: pointer;
-    color: red;
+    color: blue;
 }
 main{
     height: calc(100vh - 80px);
